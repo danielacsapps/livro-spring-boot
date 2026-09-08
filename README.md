@@ -1,2 +1,2 @@
-# livro-spring-boot
+# Spring Boot
 Exemplos do livro "Spring Boot - Acelere o desenvolvimento de microsserviços"
